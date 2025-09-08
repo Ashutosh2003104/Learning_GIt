@@ -3,3 +3,5 @@ Connecting farmers, artisans, and customers directly.
 editing the file
 ## Login Feature
 We are adding login functionality here.
+## About Feature
+We are adding about functionality here.
